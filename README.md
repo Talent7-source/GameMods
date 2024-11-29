@@ -4,7 +4,7 @@ Welcome to the Talent 7 Custom User Interface and Seasonal Gears Mod. This mod i
 
 ## What the Mod Does
 - **Custom User Interface:** This mod offers a tailored user interface to improve usability and aesthetics.
-- **Seasonal Gears:** all  seasonal gear's added in your shop now dont need overrides dates.
+- **Seasonal Gears:** all  seasonal gear's added in your shop .
 - **No Physics Changes:** This mod does not alter any game physics, ensuring a consistent gaming experience.
 
 ## Why This Mod is Useful
