@@ -1,4 +1,4 @@
-# 🎯 Narrow.One Squad Bot - Discord Integration
+# 🎯 Narrow.One Custom Modifications 
 
 [![Join Us on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Talent-7)
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/t7members/)
