@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name         Custom Video Background for Main Menu
+// @namespace    http://tampermonkey.net/
+// @version      1.5
+// @description  wooden theme
+// @author      talent 7
+// @match        https://narrow.one/*
+// @grant        GM_addStyle
+// ==/UserScript==
